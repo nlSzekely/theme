@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/theme/static/js/main.8a35158b.chunk.js",
-    "main.js.map": "/theme/static/js/main.8a35158b.chunk.js.map",
+    "main.js": "/theme/static/js/main.35fa6863.chunk.js",
+    "main.js.map": "/theme/static/js/main.35fa6863.chunk.js.map",
     "runtime-main.js": "/theme/static/js/runtime-main.e60bf3b5.js",
     "runtime-main.js.map": "/theme/static/js/runtime-main.e60bf3b5.js.map",
     "static/js/2.d0e6151d.chunk.js": "/theme/static/js/2.d0e6151d.chunk.js",
     "static/js/2.d0e6151d.chunk.js.map": "/theme/static/js/2.d0e6151d.chunk.js.map",
     "index.html": "/theme/index.html",
-    "precache-manifest.f27c3feca0ac63e2e197092d13348718.js": "/theme/precache-manifest.f27c3feca0ac63e2e197092d13348718.js",
+    "precache-manifest.bb1910ca62e1b5c842fe62f289912b10.js": "/theme/precache-manifest.bb1910ca62e1b5c842fe62f289912b10.js",
     "service-worker.js": "/theme/service-worker.js",
     "static/js/2.d0e6151d.chunk.js.LICENSE.txt": "/theme/static/js/2.d0e6151d.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/theme/static/media/avatar.d30290e3.jpg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.e60bf3b5.js",
     "static/js/2.d0e6151d.chunk.js",
-    "static/js/main.8a35158b.chunk.js"
+    "static/js/main.35fa6863.chunk.js"
   ]
 }
